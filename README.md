@@ -33,6 +33,25 @@ Executar assim mesmo**. A versão portátil abre direto, sem instalar.
 Para conferir que o arquivo é o original, compare o SHA-256 com o
 `SHA256SUMS.txt` da Release (no PowerShell: `Get-FileHash arquivo`).
 
+## Como usar em 1 minuto
+
+<table>
+<tr>
+<td align="center" width="25%"><img src="docs/img/1-inicio.png" width="190" alt="Tela inicial do app com o tabuleiro vazio"></td>
+<td align="center" width="25%"><img src="docs/img/2-recomendacao.png" width="190" alt="Depois de marcar o 8 grátis, o app diz: Revele a casa do centro"></td>
+<td align="center" width="25%"><img src="docs/img/3-fada.png" width="190" alt="O app pergunta: A fada apareceu no jogo?"></td>
+<td align="center" width="25%"><img src="docs/img/4-linha-final.png" width="190" alt="A linha a escolher fica destacada em dourado"></td>
+</tr>
+<tr>
+<td valign="top"><b>1.</b> Abra o app. No jogo, veja em qual casa saiu o número grátis.</td>
+<td valign="top"><b>2.</b> Toque a mesma casa no app e escolha o número (aqui, 8 em baixo). O app diz qual casa raspar: <i>Revele a casa do centro</i>.</td>
+<td valign="top"><b>3.</b> Depois da última raspada, se a fada puder aparecer, o app pergunta. Responda <b>Sim</b> ou <b>Não apareceu</b>.</td>
+<td valign="top"><b>4.</b> A linha certa fica em dourado. No jogo, toque a seta dessa linha e depois em <b>Confirmar</b>.</td>
+</tr>
+</table>
+
+As imagens são do próprio app (versão de navegador, tela de celular).
+
 ## Como usar numa rodada
 
 1. No jogo, toque **Iniciar**. Um número aparece numa das bordas.
